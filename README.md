@@ -11,13 +11,18 @@ Very experienced in many areas of life. Highly adaptive and love to learn new th
 
 
 ### Statistics 🚀
-![martin-holland's github stats](https://github-readme-stats.vercel.app/api?username=martin-holland&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-holland&theme=tokyonight" alt="mystreak"/>
-![martin-holland's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-holland&theme=tokyonight&layout=compact)
+
+![martin-holland's github stats](https://github-readme-stats.vercel.app/api?username=martin-holland&show_icons=true&theme=tokyonight). 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-holland&theme=tokyonight" alt="mystreak"/>. 
+
+
+![martin-holland's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-holland&theme=tokyonight&layout=compact). 
+
 
 ### Programming Languages 🌐
 
-Known / Use:
+#### Known / Use 📚:
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -30,10 +35,15 @@ Known / Use:
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
+     &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
+  </a> 
+  
   
 </p>
 
-Learning:
+#### Learning 🌱:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
@@ -60,13 +70,18 @@ Learning:
 &emsp;
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 &emsp;
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
+&emsp;
+
 
 
 ### Databases / Hosting:
 
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 &emsp;
-<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>. 
+
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
 &emsp;
 
 <i>Random dev joke for you!</i><br>
