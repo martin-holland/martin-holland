@@ -2,7 +2,7 @@
 
 ### About Me
 
-Currently highly motivated student at Business College Helsinki, enjoying every moment! Recently returned to my roots in programming languages and have been busy developing myself (and webpages (haha!))
+Currently working as a Software Developer Team Lead at Free Laskutus Oy, learnt amazing new things first from the Helsinki Businesss College. This has allowed me to take up two positions within Free Laskutus, firstly starting as a Software Developer and now into Software Developer Team Lead. Along the way I have learnt many new things and will continue to update this profile as things change.
 
 Very experienced in many areas of life. Highly adaptive and love to learn new things! 
 
