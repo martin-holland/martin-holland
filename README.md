@@ -12,7 +12,13 @@ Very experienced in many areas of life. Highly adaptive and love to learn new th
 
 ### Statistics 🚀
 
-![martin-holland's github stats](https://github-readme-stats.vercel.app/api?username=martin-holland&show_icons=true&theme=tokyonight). 
+<!-- martin-holland -->
+![martin-holland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-holland&show_icons=true&theme=tokyonight)
+![martin-holland's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martin-holland&theme=tokyonight)
+
+<!-- martinholland2k -->
+![martinholland2k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinholland2k&show_icons=true&theme=tokyonight)
+![martinholland2k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinholland2k&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-holland&theme=tokyonight" alt="mystreak"/>. 
 
