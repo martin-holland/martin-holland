@@ -20,10 +20,9 @@ Very experienced in many areas of life. Highly adaptive and love to learn new th
 ![martinholland2k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinholland2k&show_icons=true&theme=tokyonight)
 ![martinholland2k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinholland2k&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-holland&theme=tokyonight" alt="mystreak"/>. 
 
-
-![martin-holland's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-holland&theme=tokyonight&layout=compact). 
+![martin-holland's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinholland2k&theme=tokyonight&layout=compact). 
+![martinholland2k's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinholland2k&theme=tokyonight&layout=compact). 
 
 See also: https://gitlab.com/martin.holland
 
