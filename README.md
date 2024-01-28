@@ -25,6 +25,8 @@ Very experienced in many areas of life. Highly adaptive and love to learn new th
 
 ![martin-holland's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-holland&theme=tokyonight&layout=compact). 
 
+See also: https://gitlab.com/martin.holland
+
 
 ### Programming Languages 🌐
 
