@@ -53,13 +53,29 @@ Beyond coding, I find inspiration in nature and exploration:
 
 ## 📊 Statistics
 
+### Personal GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martin-holland&show_icons=true&theme=tokyonight" alt="martin-holland's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-holland&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-holland&theme=tokyonight" alt="martin-holland's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-holland&theme=tokyonight&layout=compact" alt="martin-holland's Top Languages" />
 </p>
 
+### Work GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-holland&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martinholland2k&show_icons=true&theme=tokyonight" alt="martinholland2k's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinholland2k&theme=tokyonight" alt="martinholland2k's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinholland2k&theme=tokyonight&layout=compact" alt="martinholland2k's Top Languages" />
+</p>
+
+### Work GitLab
+<p align="center">
+  <a href="https://gitlab.com/martin.holland">
+    <img src="https://img.shields.io/badge/GitLab-Visit%20Profile-orange?style=flat-square&logo=gitlab" alt="GitLab Profile" />
+  </a>
 </p>
 
 ---
